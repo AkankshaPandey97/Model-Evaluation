@@ -64,5 +64,5 @@ Build an interactive tool for evaluating OpenAI models using specific test cases
 | Name                        | Contribution % | Contributions                                      |
 |---------------------------  |----------------|----------------------------------------------------|
 | Kalash Desai                | 33.3%          | Architecture design, Streamlit app development     |
-| Akanksha Pandey             | 33.3%          | OpenAI integration, feedback processing            |
-| Sai Pranavi Jeedigunta      | 33.3%          | Data retrieval from GCP, metadata management       |
+| Akanksha Pandey             | 33.3%          | Data retrieval from GCP, metadata management       |
+| Sai Pranavi Jeedigunta      | 33.3%          | OpenAI integration, feedback processing            |
