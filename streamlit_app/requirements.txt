@@ -6,3 +6,9 @@ google-cloud-bigquery
 google-auth
 psycopg2-binary
 python-dotenv
+google-cloud-core
+google-auth
+tiktoken
+os
+re
+matplotlib.pyplot
