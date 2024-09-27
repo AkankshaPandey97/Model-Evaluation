@@ -1,7 +1,7 @@
 # Model Evaluation System
 
 ## Live Application Links
-- **Streamlit Application**: [Streamlit URL Here](http://your-streamlit-url)
+- **Streamlit Application**: [Streamlit URL Here]([http://your-streamlit-url](http://localhost:8501/))
 
 ## Problem Statement
 Build an interactive tool for evaluating OpenAI models using specific test cases from the GAIA dataset.
