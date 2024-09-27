@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+numpy
+google-cloud-bigquery
+google-auth
+psycopg2-binary
