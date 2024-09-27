@@ -30,6 +30,10 @@ Build an interactive tool for evaluating OpenAI models using specific test cases
 ## Architecture Diagram
 ![Architecture Diagram](https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-1/blob/main/architecture-diagram/architecture_diagram.png)
 
+## Demo Video
+
+You can view the demo video by clicking [here](https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-1/blob/main/demo/938d3e14-9a83-479f-ae16-28cdb8d3f8e7.MP4).
+
 ## How to Run the Application Locally
 1. Clone the repository:
    ```bash
