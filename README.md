@@ -4,7 +4,7 @@
 - **Streamlit Application**: [Streamlit URL Here](http://your-streamlit-url)
 
 ## Problem Statement
-Build an interactive tool for evaluating OpenAI models using specific test cases sourced from the GAIA dataset.
+Build an interactive tool for evaluating OpenAI models using specific test cases from the GAIA dataset.
 
 ## Project Goals
 - Allow users to select validation test cases and submit queries to the OpenAI model.
@@ -16,9 +16,9 @@ Build an interactive tool for evaluating OpenAI models using specific test cases
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
-[![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/storage)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![BigQuery](https://img.shields.io/badge/BigQuery-0072C6?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/bigquery)
+[![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/storage)
 
 ## Pre-requisites
 - Knowledge of Python
@@ -27,12 +27,14 @@ Build an interactive tool for evaluating OpenAI models using specific test cases
 - Familiarity with Streamlit
 - Understanding of BigQuery
 
+## Architecture Diagram
+![Architecture Diagram](https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-1/blob/main/architecture-diagram/architecture_diagram.png)
 
 ## How to Run the Application Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Model-Evaluation-System.git
-   cd Model-Evaluation-System
+   git clone https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-1.git
+   cd Assignment-1
    ```
    
 2. Navigate to each folder where `requirements.txt` is present:
@@ -64,6 +66,6 @@ Build an interactive tool for evaluating OpenAI models using specific test cases
 ## Team Contributions
 | Name                        | Contribution % | Contributions                                      |
 |---------------------------  |----------------|----------------------------------------------------|
-| Kalash Desai                | 33.3%          | Architecture design, Streamlit app development     |
+| Kalash Desai                | 33.3%          | Streamlit app development                          |
 | Akanksha Pandey             | 33.3%          | Data retrieval from GCP, metadata management       |
-| Sai Pranavi Jeedigunta      | 33.3%          | OpenAI integration, feedback processing            |
+| Sai Pranavi Jeedigunta      | 33.3%          | Integrated OpenAI API with BigQuery and Streamlit  |
