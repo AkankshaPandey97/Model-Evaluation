@@ -28,7 +28,7 @@ Build an interactive tool for evaluating OpenAI models using specific test cases
 - Understanding of BigQuery
 
 ## Architecture Diagram
-![Architecture Diagram](https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-1/blob/main/architecture-diagram/architecture_diagram.png)
+![Architecture Diagram](architecture-diagram)
 
 ## How to Run the Application Locally
 1. Clone the repository:
