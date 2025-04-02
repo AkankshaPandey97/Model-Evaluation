@@ -30,12 +30,6 @@ Build an interactive tool for evaluating OpenAI models using specific test cases
 ## Architecture Diagram
 ![Architecture Diagram](https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-1/blob/main/architecture-diagram/architecture_diagram.png)
 
-## Codelab link: [https://codelabs-preview.appspot.com/?file_id=https://docs.google.com/document/d/1t_RC1YmJiXPn4LguJ_OUvQz4LfTLWhlnDdA3JFdfDxc/edit#](https://codelabs-preview.appspot.com/?file_id=https://docs.google.com/document/d/1t_RC1YmJiXPn4LguJ_OUvQz4LfTLWhlnDdA3JFdfDxc/edit#)
-
-## Demo Video
-
-You can view the demo video by clicking [here](https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-1/blob/main/demo/938d3e14-9a83-479f-ae16-28cdb8d3f8e7.MP4).
-
 ## How to Run the Application Locally
 1. Clone the repository:
    ```bash
@@ -68,10 +62,3 @@ You can view the demo video by clicking [here](https://github.com/BigDataIA-Fall
 - [OpenAI API](https://openai.com/api/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Google Cloud Platform](https://cloud.google.com/)
-
-## Team Contributions
-| Name                        | Contribution % | Contributions                                      |
-|---------------------------  |----------------|----------------------------------------------------|
-| Kalash Desai                | 33.3%          | Streamlit app development                          |
-| Akanksha Pandey             | 33.3%          | Data retrieval from GCP, metadata management       |
-| Sai Pranavi Jeedigunta      | 33.3%          | Integrated OpenAI API with BigQuery and Streamlit  |
